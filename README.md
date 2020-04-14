@@ -26,7 +26,7 @@ Clone the repo and execute the following command on different terminals
 	python3 server.py (1 terminal)
 	python3 client.py (3 different terminals)
 
-# Some features of this project
+## Some features of this project
 
 Currently the number of players has been set to 3 but you can change it in the server code easily. 
 Similarly the maximum score to finish the game could be changed in the server code.
